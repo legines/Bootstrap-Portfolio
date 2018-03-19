@@ -1,5 +1,7 @@
 # Bootstrap-Portfolio
 
+[Click me to see my portfolio!](https://legines.github.io/Bootstrap-Portfolio/)
+
 1. Using Bootstrap, recreatec my basic portfolio site with the following items:  
 
     * A navbar.
