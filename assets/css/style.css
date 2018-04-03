@@ -3,7 +3,7 @@ h1,h2,h3 {
 }
 
 body{
-	background: url("../images/dust_back.png") repeat;
+	background: url("./assets/images/dust_back.png") repeat;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
